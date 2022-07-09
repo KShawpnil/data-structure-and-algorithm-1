@@ -1,4 +1,4 @@
-//1st n-hour challenge - Problem No.1
+//n-hour challenge - Problem No.1
 
 #include <stdio.h>
 #include <stdlib.h>
