@@ -1,6 +1,3 @@
-//ID:011201125
-//nHour2_Problem1
-
 #include <stdio.h>
 #include<stdlib.h>
 #define CAPACITY 100
@@ -47,8 +44,6 @@ int hasEdge(int i, int j){
         return 0;
     }
 }
-
-//code for problem 1
 
 int getNetWeight(int i)
 {
