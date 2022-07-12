@@ -1,5 +1,3 @@
-//n-hour challenge - Problem No.3
-
 #include <stdio.h>
 #include <stdlib.h>
 
