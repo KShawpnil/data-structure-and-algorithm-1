@@ -1,6 +1,3 @@
-//ID:011201125
-//nHour2_Problem2
-
 #include <stdio.h>
 #include <stdlib.h>
 #define SUCCESS_VAL 99999
@@ -54,7 +51,6 @@ int hasEdge(int i, int j){
     return 0;
 }
 
-//code for problem no 2
 
 int getNeighborsCount(int v)
 {
